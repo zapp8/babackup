@@ -11,3 +11,6 @@ is a very simple bash script that use rsync over ssh to backup your data securel
 ## External Links
 - <a href='https://www.openssh.org' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://www.openssh.org' border='0' alt='openssh' /></a>
 - <a href='https://rsync.samba.org/' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://rsync.samba.org/' border='0' alt='rsync' /></a>
+
+## License
+under MIT License
