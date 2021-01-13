@@ -1,5 +1,5 @@
 # BaBackup
-is a very simple bash script that use rsync over ssh to backup your data securely. You can backup your data on the same host on a different directory or use the best way to backup your data on a remote host.
+is a very simple bash script that use rsync over ssh to backup your data securely. You can backup your data on the same host on a different directory or backup your data on a remote host that is the best way.
 
 ## Installation
 - install **rsync** package on your box
