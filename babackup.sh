@@ -12,3 +12,4 @@ else
 		then echo "Something gone wrong!"
 	fi
 fi
+exit 0;
