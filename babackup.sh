@@ -10,6 +10,7 @@ else
 	rsync -va --delete -e ssh $1 $2 > $LOG_DIR/rsync_backup_$DATE.log
 	if [ $? -ne 0 ];
 		then echo "Something gone wrong!"
+		exit 1;
 	fi
 fi
 exit 0;
